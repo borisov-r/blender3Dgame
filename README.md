@@ -10,6 +10,7 @@ This game doesn't have name for now.
 Tree should look like this:
 
 blender3Dgame
+
     --/models
     ---------/characters
     ---------/environments
@@ -28,5 +29,3 @@ Martin, Eva, Rado, Evgeni, Ruslan and more ....
 =============
 
 No copyright restrictions.
-
-
