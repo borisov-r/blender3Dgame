@@ -30,4 +30,6 @@ def shell(controller):
         near.hitObject.color = (0.8, 0.2, 0.2, 1)
     else:
         #character.setVisible(False, True)
-        scene.restart()
+        shell.actuators["Sound"].startSound()
+        #scene.restart()
+
